@@ -92,10 +92,10 @@ public class Datasets {
 		 * 
 		 */
 
-//				 Dataset<Row> dataframe1= session.read().csv("..\\spark_T\\src\\main\\java\\com\\project\\spark_T\\resources\\data.csv");
-//
-//				 dataframe1.write().format("json").save("..\\spark_T\\src\\main\\java\\com\\project\\spark_T\\resources\\transformation");
-//      
+				 Dataset<Row> dataframe1= session.read().csv("..\\spark_T\\src\\main\\java\\com\\project\\spark_T\\resources\\data.csv");
+
+				 dataframe1.write().format("json").save("..\\spark_T\\src\\main\\java\\com\\project\\spark_T\\resources\\transformation");
+      
 
 		/*
 		 * 
