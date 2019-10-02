@@ -1,0 +1,10 @@
+FTTH00509294,NDABUL,/shelf=0/slot=0/port=27
+FTTH00509330,NDABVQ,/shelf=0/slot=2/port=13
+FTTH00509311,NDABUN,/shelf=0/slot=0/port=17
+FTTH00509363,NDABUN,/shelf=0/slot=0/port=18
+FTTH00509491,NDABVQ,/shelf=0/slot=1/port=4
+FTTH00587796,NDACQU,/shelf=0/slot=1/port=2
+FTTH00509564,NDABUL,/shelf=0/slot=0/port=29
+FTTH00509159,NDABUY,/shelf=0/slot=0/port=9
+FTTH00587753,NDACQU,/shelf=0/slot=0/port=46
+FTTH00509164,NDABUY,/shelf=0/slot=0/port=10

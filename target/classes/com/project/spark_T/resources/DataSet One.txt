@@ -1,0 +1,7 @@
+1,Super Man,Animation
+2,Captain America,Adventure
+3,The Hulk,Comedy
+4,Iron Man,Comedy
+5,Bat Man,Action
+6,Spider Man,Action
+7,Disaster,Action
